@@ -1,0 +1,246 @@
+;anno;period;madrid
+0;2007;Trimestre 2;3497.8
+1;2007;Trimestre 3;3551.19
+2;2007;Trimestre 4;3364.98
+3;2008;Trimestre 1;3323.59
+4;2008;Trimestre 2;3268.73
+5;2008;Trimestre 3;3374.24
+6;2008;Trimestre 4;3137.0
+7;2009;Trimestre 1;3018.23
+8;2009;Trimestre 2;2934.55
+9;2009;Trimestre 3;2864.02
+10;2009;Trimestre 4;2841.31
+11;2010;Trimestre 1;2873.04
+12;2010;Trimestre 2;2917.15
+13;2010;Trimestre 3;2803.71
+14;2010;Trimestre 4;2763.39
+15;2011;Trimestre 1;2642.64
+16;2011;Trimestre 2;2586.07
+17;2011;Trimestre 3;2525.73
+18;2011;Trimestre 4;2589.47
+19;2012;Trimestre 1;2354.99
+20;2012;Trimestre 2;2214.51
+21;2012;Trimestre 3;2110.25
+22;2012;Trimestre 4;2160.29
+23;2013;Trimestre 1;2090.09
+24;2013;Trimestre 2;1980.9
+25;2013;Trimestre 3;2063.89
+26;2013;Trimestre 4;2034.47
+27;2014;Trimestre 1;1947.22
+28;2014;Trimestre 2;2035.69
+29;2014;Trimestre 3;2051.89
+30;2014;Trimestre 4;1998.97
+31;2015;Trimestre 1;2057.92
+32;2015;Trimestre 2;2036.56
+33;2015;Trimestre 3;2112.0
+34;2015;Trimestre 4;2085.97
+35;2016;Trimestre 1;2226.39
+36;2016;Trimestre 2;2209.12
+37;2016;Trimestre 3;2249.12
+38;2016;Trimestre 4;2324.59
+39;2017;Trimestre 1;2373.56
+40;2017;Trimestre 2;2437.13
+41;2017;Trimestre 3;2520.25
+42;2017;Trimestre 4;2596.0
+43;2018;Trimestre 1;2698.3
+44;2018;Trimestre 2;2794.67
+45;2018;Trimestre 3;2923.26
+46;2007;Enero;
+47;2007;Febrero;
+48;2007;Marzo;
+49;2007;Abril;
+50;2007;Mayo;
+51;2007;Junio;
+52;2007;Julio;
+53;2007;Agosto;
+54;2007;Septiembre;
+55;2007;Octubre;
+56;2007;Noviembre;
+57;2007;Diciembre;
+58;2008;Enero;
+59;2008;Febrero;
+60;2008;Marzo;
+61;2008;Abril;
+62;2008;Mayo;
+63;2008;Junio;
+64;2008;Julio;
+65;2008;Agosto;
+66;2008;Septiembre;
+67;2008;Octubre;
+68;2008;Noviembre;
+69;2008;Diciembre;
+70;2009;Enero;
+71;2009;Febrero;
+72;2009;Marzo;
+73;2009;Abril;
+74;2009;Mayo;
+75;2009;Junio;
+76;2009;Julio;
+77;2009;Agosto;
+78;2009;Septiembre;
+79;2009;Octubre;
+80;2009;Noviembre;
+81;2009;Diciembre;
+82;2010;Enero;
+83;2010;Febrero;
+84;2010;Marzo;
+85;2010;Abril;
+86;2010;Mayo;
+87;2010;Junio;
+88;2010;Julio;
+89;2010;Agosto;
+90;2010;Septiembre;
+91;2010;Octubre;
+92;2010;Noviembre;
+93;2010;Diciembre;
+94;2011;Enero;
+95;2011;Febrero;
+96;2011;Marzo;
+97;2011;Abril;
+98;2011;Mayo;
+99;2011;Junio;
+100;2011;Julio;
+101;2011;Agosto;
+102;2011;Septiembre;
+103;2011;Octubre;
+104;2011;Noviembre;
+105;2011;Diciembre;
+106;2012;Enero;
+107;2012;Febrero;
+108;2012;Marzo;
+109;2012;Abril;
+110;2012;Mayo;
+111;2012;Junio;
+112;2012;Julio;
+113;2012;Agosto;
+114;2012;Septiembre;
+115;2012;Octubre;
+116;2012;Noviembre;
+117;2012;Diciembre;
+118;2013;Enero;
+119;2013;Febrero;
+120;2013;Marzo;
+121;2013;Abril;
+122;2013;Mayo;
+123;2013;Junio;
+124;2013;Julio;
+125;2013;Agosto;
+126;2013;Septiembre;
+127;2013;Octubre;
+128;2013;Noviembre;
+129;2013;Diciembre;
+130;2014;Enero;
+131;2014;Febrero;
+132;2014;Marzo;
+133;2014;Abril;
+134;2014;Mayo;
+135;2014;Junio;
+136;2014;Julio;
+137;2014;Agosto;
+138;2014;Septiembre;
+139;2014;Octubre;
+140;2014;Noviembre;
+141;2014;Diciembre;
+142;2015;Enero;
+143;2015;Febrero;
+144;2015;Marzo;
+145;2015;Abril;
+146;2015;Mayo;
+147;2015;Junio;
+148;2015;Julio;
+149;2015;Agosto;
+150;2015;Septiembre;
+151;2015;Octubre;
+152;2015;Noviembre;
+153;2015;Diciembre;
+154;2016;Enero;
+155;2016;Febrero;
+156;2016;Marzo;
+157;2016;Abril;
+158;2016;Mayo;
+159;2016;Junio;
+160;2016;Julio;
+161;2016;Agosto;
+162;2016;Septiembre;
+163;2016;Octubre;
+164;2016;Noviembre;
+165;2016;Diciembre;
+166;2017;Enero;
+167;2017;Febrero;
+168;2017;Marzo;
+169;2017;Abril;
+170;2017;Mayo;
+171;2017;Junio;
+172;2017;Julio;
+173;2017;Agosto;
+174;2017;Septiembre;
+175;2017;Octubre;
+176;2017;Noviembre;
+177;2017;Diciembre;
+178;2018;Enero;
+179;2018;Febrero;
+180;2018;Marzo;
+181;2018;Abril;
+182;2018;Mayo;
+183;2018;Junio;
+184;2018;Julio;
+185;2018;Agosto;
+186;2018;Septiembre;
+187;2018;Octubre;
+188;2018;Noviembre;
+189;2018;Diciembre;
+190;2019;Enero;
+191;2019;Febrero;
+192;2019;Marzo;
+193;2019;Abril;
+194;2019;Mayo;
+195;2019;Junio;
+196;2019;Julio;
+197;2019;Agosto;
+198;2019;Septiembre;
+199;2019;Octubre;
+200;2019;Noviembre;
+201;2019;Diciembre;
+202;2020;Enero;
+203;2020;Febrero;
+204;2020;Marzo;
+205;2020;Abril;
+206;2020;Mayo;
+207;2020;Junio;
+208;2020;Julio;
+209;2020;Agosto;
+210;2020;Septiembre;
+211;2020;Octubre;
+212;2020;Noviembre;
+213;2020;Diciembre;
+214;2021;Enero;
+215;2021;Febrero;
+216;2021;Marzo;
+217;2021;Abril;
+218;2021;Mayo;
+219;2021;Junio;
+220;2021;Julio;
+221;2021;Agosto;
+222;2021;Septiembre;
+223;2021;Octubre;
+224;2021;Noviembre;
+225;2021;Diciembre;
+226;2022;Enero;
+227;2022;Febrero;
+228;2022;Marzo;
+229;2022;Abril;
+230;2022;Mayo;
+231;2022;Junio;
+232;2022;Julio;
+233;2022;Agosto;
+234;2022;Septiembre;
+235;2022;Octubre;
+236;2022;Noviembre;
+237;2022;Diciembre;
+238;2023;Enero;
+239;2023;Febrero;
+240;2023;Marzo;
+241;2023;Abril;
+242;2023;Mayo;
+243;2023;Junio;
+244;2023;Julio;
