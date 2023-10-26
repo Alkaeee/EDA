@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import streamlit.components.v1 as c
 import streamlit as st
-from streamlit_folium import folium_static
-import folium
 import variables as v
 from PIL import Image
 
@@ -128,8 +126,8 @@ elif selection == "Mapas":
          "Mapa de la evolución de viviendas vacacionales en Madrid")
     )
     if select_map =="Mapa Madrid":
-        map_mad = folium.Map(location=[40.4567, -3.6840], zoom_start=10)
-        folium_static(map_mad)
+        file = open(v.URL_HTML_MAP_MADRID, "r")
+        c.html(file.read(), height=1000)
     elif select_map == "Mapa delimitacion de los barrios de Madrid":
         file = open(v.URL_HTML_MAP_NEIGH_MAD, "r")
         c.html(file.read(), height=1000)
